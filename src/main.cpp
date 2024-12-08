@@ -1,0 +1,11 @@
+#include <Arduino.h>
+#include "HAL/HAL.h"
+
+void setup() {
+    HAL::Init();
+}
+
+void loop() {
+    HAL::Update();
+    delay(20);
+}

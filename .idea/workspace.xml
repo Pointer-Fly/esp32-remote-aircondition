@@ -7,24 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1fd01dc-84d9-4e0a-9ef8-3e32bf511760" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platformio.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App/Accounts/ACT_SHT.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App/Configs/Config.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/CommonMacro.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/HAL.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/HAL.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_Def.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_I2C_Scan.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_MQTT.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_SHT.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_WiFi.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/README" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Firmware/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/README" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/include/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/README" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/lib/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platformio.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/platformio.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/Accounts/ACT_SHT.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/App/Accounts/ACT_SHT.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/Configs/Config.h" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/App/Configs/Config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/CommonMacro.h" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/CommonMacro.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/HAL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/HAL.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/HAL.h" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/HAL.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_Def.h" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/HAL_Def.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_I2C_Scan.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/HAL_I2C_Scan.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_MQTT.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/HAL_MQTT.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_SHT.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/HAL_SHT.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HAL/HAL_WiFi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/HAL/HAL_WiFi.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/README" beforeDir="false" afterPath="$PROJECT_DIR$/Firmware/test/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +72,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733665049663</updated>
-      <workItem from="1733665051625" duration="54000" />
+      <workItem from="1733665051625" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

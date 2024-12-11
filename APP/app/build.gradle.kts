@@ -1,3 +1,5 @@
+import com.android.build.api.dsl.ViewBinding
+
 plugins {
     alias(libs.plugins.android.application)
 }
@@ -28,6 +30,14 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
+    }
+
+//    添加ViewBinding特性
+    buildFeatures{
+        viewBinding = true
+    }
+    viewBinding {
+        enable = true
     }
 }
 
